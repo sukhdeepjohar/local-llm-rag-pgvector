@@ -6,7 +6,7 @@ from llama_index.core import StorageContext, Settings
 from llama_index.vector_stores.postgres import PGVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.core import SimpleDirectoryReader
-# from llama_index.readers.web import SimpleWebPageReader ??? for ??
+# from llama_index.readers.web import SimpleWebPageReader 
 import logging
 
 # Set up logging
